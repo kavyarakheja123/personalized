@@ -1,0 +1,19 @@
+h1 {
+    color: crimson;
+}
+
+img:hover {
+    background-color: royalblue;
+}
+
+.bacon {
+    background-color: green;
+}
+
+.broccoli {
+    background-color: red;
+}
+
+#heading {
+    color: rosybrown;
+}
